@@ -2,6 +2,8 @@
 
 **!!! This repo is dedicated for project docs. Links to actual project will be added later !!!**
 
+[Backend project](https://github.com/2024-Software-Engineering-Pmi-32/LambdaChess)
+
 **LambdaChess** is an innovative chess application designed to provide an engaging and versatile chess experience for players of all skill levels. This project aims to combine core gameplay features with modern design principles to create a seamless and enjoyable chess-playing experience.
 
 [Figma](https://www.figma.com/proto/RZ43FtW6K6b01xlkOOs4je/Untitled?node-id=0-1&node-type=canvas&t=rSq5uG59EFATb6Hf-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A155)
