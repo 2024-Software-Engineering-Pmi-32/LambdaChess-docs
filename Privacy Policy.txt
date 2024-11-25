@@ -1,0 +1,33 @@
+Privacy Policy
+
+Privacy Policy for LambdaChess
+
+Last updated: 01.11.2024
+1. Introduction
+LambdaChess is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use LambdaChess (the "Application").
+
+2. Information We Collect
+Personal Information: Information you provide, such as your name, email address, or account details, when registering or updating your profile. 
+Usage Data: Information automatically collected, such as device information, IP address, gameplay statistics, and interaction with features.
+
+3. How We Use Your Information
+We use the information we collect to:
+	> Operate and improve the Application.
+	> Provide customer support and respond to inquiries.
+	> Personalize user experience.
+	> Monitor and analyze usage to enhance the Application’s functionality.
+
+4. Sharing Your Information
+We do not sell, trade, or otherwise transfer your personal information to outside parties without your consent, except as required by law or to protect our legal rights.
+
+5. Data Security
+We implement reasonable security measures to protect your data. However, no security measures are 100% effective, and we cannot guarantee absolute security.
+
+6. User Rights
+Depending on your jurisdiction, you may have rights such as accessing, correcting, or deleting your personal data. To exercise these rights, contact us at LambdaChess@gmail.com.
+
+7. Changes to This Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. We will notify you of significant changes by updating the “Last updated” date.
+
+8. Contact Us
+If you have questions about this Privacy Policy, contact us at LambdaChess@gmail.com.
